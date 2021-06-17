@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+ }
+  
+  
+  #titulo {
+   color: rgb(117, 62, 117);
+
+   font-size :70px;
+}
+#caja {
+   background-color :rgb(280, 280, 280);
+   width:  380x ;
+   height: 380px ;
+  }
+#caja {
+  display: flex;
+  justify-content: center;
+}
